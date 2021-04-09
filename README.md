@@ -1,5 +1,5 @@
 # CUDA-Concurrent-Streams
-#performance
+# performance
 ```
 $ make profile
 nsys profile --stats=true --force-overwrite=true -o streams-report ./streams
